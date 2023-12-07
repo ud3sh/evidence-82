@@ -1,0 +1,1 @@
+<UsqlDatatable tableName="postgres.sales"/>
